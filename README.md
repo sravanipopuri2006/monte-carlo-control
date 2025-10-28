@@ -76,8 +76,8 @@ def mc_control(env,
 
 ## OUTPUT:
 ### Name:POPURI SRAVANI
-### Register Number:212223240117
-<img width="886" height="293" alt="image" src="https://github.com/user-attachments/assets/f40e6030-a0ec-4c19-aaa9-051ba65a0b42" />
+### Register Number:212223240117<img width="930" height="402" alt="Screenshot 2025-10-28 163023" src="https://github.com/user-attachments/assets/b186bd00-6a09-434e-a316-7872640000a7" />
+
 
 
 
